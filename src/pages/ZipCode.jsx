@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import benefitsData from "../lib/benefits.json";
 
-
 function ZipCode() {
  const [formData, setFormData] = useState({
   zip: "",
