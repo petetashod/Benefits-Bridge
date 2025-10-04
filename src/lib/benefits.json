@@ -1,0 +1,7 @@
+{
+  "benefits": [
+    { "id": "snap", "name": "SNAP", },
+    { "id": "housing", "name": "Housing" },
+    { "id": "medicaid", "name": "Medicaid"  }
+  ]
+}
