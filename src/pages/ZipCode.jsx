@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+/** @format */
 
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function ZipCode() {
   const [zip, setZip] = useState("");
